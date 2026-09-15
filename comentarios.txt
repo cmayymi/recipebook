@@ -1,2 +1,0 @@
-pra ligar o venv: source venv/bin/activate
-git add . (salva tudo no git)
